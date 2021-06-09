@@ -35,7 +35,7 @@ To do this you have to put the iso_simp.min.json file into your filesystem with 
 ```python
   import json #the advantage is that you have no new dependencies
   get_language_as_iso_code():
-    """some function that returns an ISO-Code like for example from langid, langdetect, fastText or nltk"""
+    #some function that returns an ISO-Code like for example from langid, langdetect, fastText or nltk
     return "en"
   with open("iso_simp.min.json","r") as file:
     iso_codes=json.load(file)
