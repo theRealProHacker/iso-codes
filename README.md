@@ -1,8 +1,5 @@
 # iso-codes
-This repository contains ISO-639-1 Language Code dictionaries. 
-
-### [iso_full.min.json](https://github.com/theRealProHacker/iso-codes/blob/main/iso_full.min.json)
-This is again the minified version of [iso_full.json](https://github.com/theRealProHacker/iso-codes/blob/main/iso_full.json)
+This repository contains ISO-639-1 and ISO-639-3 Language Code dictionaries. 
 
 # Usage
 A short python example to use this dictionary instead of pycountry for example  
