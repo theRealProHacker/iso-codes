@@ -40,5 +40,5 @@ To do this you have to put the iso_simp.min.json file into your filesystem with 
   with open("iso_simp.min.json","r") as file:
     iso_codes=json.load(file)
   myISOCode=get_language_as_iso_code()
-  print(iso_codes[myISOCode]) #-> "ENGLISH"
+  print(iso_codes[myISOCode]) #-> "english"
 ```
