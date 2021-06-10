@@ -1,5 +1,5 @@
 # iso-codes
-This repository contains iso code dictonaries to easily translate from an ISO-639-1 Language Code
+This repository contains ISO-639-1 Language Code dictionaries. 
 
 # Files
 This is a description of the files in this repository
