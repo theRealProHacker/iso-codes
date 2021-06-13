@@ -4,8 +4,8 @@ This repository contains ISO-639-1 and ISO-639-3 Language Code dictionaries.
 
 # Usage
 
-A short python code example with iso_simp.min in the iso-639-1 folder.
-To do this you have to put the iso_simp.min.json file into your filesystem with the python script
+A short python code example to use this dictionary.
+To do this you have to put the [iso-639-1/iso_simp.min.json](https://github.com/theRealProHacker/iso-codes/blob/main/iso-639-1/iso-codes.txt) file into your filesystem with the python script
 
 ```python
   #python
