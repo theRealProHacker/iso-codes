@@ -1,6 +1,9 @@
 # About
+
 This folder contains the iso-639-1 language codes
+
 ## Files
+
 This is a description of the files in this folder
 
 ## [iso-codes.txt](https://github.com/theRealProHacker/iso-codes/blob/main/iso-639-1/iso-codes.txt)
@@ -24,7 +27,9 @@ This file contains a more complex dictionary that contains all information from 
       "x-info": "extra information"
     }
 }
-``` 
+```
+
+### [iso_full.min.json](https://github.com/theRealProHacker/iso-codes/blob/main/iso-639-1/iso_full.min.json)
 
 ### [iso_full.min.json](https://github.com/theRealProHacker/iso-codes/blob/main/iso-639-1/iso_full.min.json)
 This is again the minified version of [iso_full.json](https://github.com/theRealProHacker/iso-codes/blob/main/iso-639-1/iso_full.json)
